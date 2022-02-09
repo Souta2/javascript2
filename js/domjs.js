@@ -17,3 +17,4 @@ var imageCounter = 1;
               imageArray[i].style.display = "none";
              } 
              imageArray[imageCounter - 1].style.display = "block"; 
+    }
